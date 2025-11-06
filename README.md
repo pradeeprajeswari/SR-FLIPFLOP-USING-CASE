@@ -42,7 +42,13 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="627" height="280" alt="image" src="https://github.com/user-attachments/assets/fb3999dc-01cf-4a7d-8326-8ecf267b7008" />
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1910" height="343" alt="image" src="https://github.com/user-attachments/assets/821e250e-6389-42c0-b574-4006b329b7b8" />
+
 
 **RESULTS**
+
+SR flipflop using verilog and validating their functionality using their functional tables are verified.
